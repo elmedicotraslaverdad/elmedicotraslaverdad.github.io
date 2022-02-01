@@ -1,6 +1,6 @@
 ---
-title: "'espeak', texto a voz directamente desde la terminal de GNU Linux" 
-author: ign
+title: "primer post" 
+author: doc
 date: 2022-01-30 +0800
 categories: [Computación, Software, utilidades, texto-voz, espeak]
 tags: [linux, software libre, open source, gpl, texto-voz, espeak]
