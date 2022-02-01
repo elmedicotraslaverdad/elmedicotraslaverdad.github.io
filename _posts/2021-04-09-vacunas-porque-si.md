@@ -1,7 +1,7 @@
 ---
 title: 'Vacunas porque sí'
 author: 'doc'
-date: 2022-02-01 +0100
+date: 2021-04-09 +0100
 categories: []
 tags: [médicos, necesidad, obligatoria, prescripción, vacuna]
 render_with_liquid: false
