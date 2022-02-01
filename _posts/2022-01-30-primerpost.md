@@ -1,5 +1,5 @@
 ---
-title: "Vacunas porque sí"
+title: 'Vacunas porque sí'
 author: doc
 date: 2022-02-01 -1600
 categories: [médicos, necesidad, obligatoria, prescripción, vacuna]
