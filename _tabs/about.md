@@ -14,9 +14,9 @@ Lo que usted sea capaz de leer entre líneas, dependerá de su ingenio.
 Que lo disfrute.  
 
 <br>
-## Sobre el autor
-![Dr. Benito, traje de faena](/assets/img/dr_Benito_fotografia_traje_de_faena.png)
+![Dr. Benito, traje de faena](/assets/img/logo/dr_Benito_fotografia_traje_de_faena.png)  
 
+## Sobre el autor
 **Dr. Luis Miguel Benito de Benito**  
 
 Trayectoria:  
