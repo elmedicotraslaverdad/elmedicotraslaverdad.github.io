@@ -48,7 +48,7 @@ github:
   username: elmedicotraslaverdad
 
 twitter:
-  username: elmedicotraslaverdad            # change to your twitter username
+  username: elmedicotraslaverdad
 
 social:
   # Change to your full name.
@@ -62,7 +62,7 @@ social:
     - https://t.me/DrDeBenito      # canal de Telegram
     - https://odysee.com/@drBenito:7      # canal de video (Odysee)
     - https://go.ivoox.com/sq/1056537      # podcast (Ivoox)
-    - https://www.linkedin.com/mwlite/in/luis-benito-54a1a8222      # linkedin
+    - https://www.linkedin.com/in/luis-benito-54a1a8222      # linkedin
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -100,8 +100,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar:
-#/assets/img/logo/dr_Benito_photo.jpg
+avatar: /assets/img/logo/dr_Benito_photo.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
