@@ -35,7 +35,7 @@ Desde julio de 2019 está trabajando también como Médico Especialista de Área
 <br>
 El doctor Luis Miguel Benito de Benito se convirtió en involuntario protagonista de las redes sociales al ser entrevistado el 13 de agosto de 2020 en 'La Mañana de TVE' y negar abiertamente que la situación hospitalaria en España sea tan grave como los medios de comunicación se empecinan en hacer creer a la sociedad.  
 
-El doctor Luis Miguel Benito De Benito, bastante critico con las actuaciones de los *mass-media* y el comportamiento ilógico de la sociedad de cara a esta presunta crisis sanitaria, ha visto censurado su [blog personal en 'Blogger' (plataforma propiedad de 'Google')](https://elmedicotraslaverdad.blogspot.com)  
+El doctor Luis Miguel Benito De Benito, bastante critico con las actuaciones de los *mass-media* y el comportamiento ilógico de la sociedad de cara a esta presunta crisis sanitaria, ha visto censurado su [blog personal en 'Blogger' (plataforma propiedad de 'Google')](https://elmedicotraslaverdad.blogspot.com), así como su canal de vídeo en Youtube (plataforma también propiedad del gigante tecnológico Google) y su cuenta en LinkedIn.  
 
 
 <br>
