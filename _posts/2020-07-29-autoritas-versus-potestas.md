@@ -15,6 +15,9 @@ Probablemente esta entrada de blog dure poco. Porque intentas explicar cómo uti
 
 Ayer 28 de julio se celebró el día internacional de la hepatitis, copando casi todo el interés la hepatitis causada por el VHC. Con ocasión de ello, me invitaron al programa "Estando Contigo" de la televisión de Castilla la Mancha en Toledo, y en directo dije lo que digo entre el minuto 42:10 y 1:03 del siguiente enlace. Se habla, sí de la hepatitis C, y también de cronificar como sucedáneo de curar. Y también se alude a lo que está pasando con el coronavirus y los temores a rebrotes que justifican cualquier medida por absurda o injusta que sea.  
 
+![Dr. Benito en la televisión de Castilla la Mancha](/assets/img/2020-07-29-autoritas-versus-potestas/dr.Benito_en_tv_Castilla_la_Mancha.png)  
+[ir al video](https://web.archive.org/web/20201101142140/https://www.cmmedia.es/programas/tv/estando-contigo/programas-completos/0_wg3512rw/)  
+
  Creo que es de especial interés lo del minuto final. Espero que lo disfrutes y difundas, porque **hay mucha miga detrás** y es posible que borren el enlace.  
 
 <br>
