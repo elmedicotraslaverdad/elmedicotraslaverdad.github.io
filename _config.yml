@@ -18,9 +18,9 @@ timezone: Europe/Madrid
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: EL médico traszzzzzyyy
+title: EL médico tras la verdad
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: La gente opina que la mitad de lo que se cuenta es mentira: lo difícil es saber qué mitad es mentira
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -44,7 +44,7 @@ social:
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    - https://github.com/elmedicotraslaverdad       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
