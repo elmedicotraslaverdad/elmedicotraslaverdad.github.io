@@ -15,7 +15,7 @@ Que lo disfrute.
 
 <br>
 ## Sobre el autor
-![Dr. Benito en traje de faena](/assets/img/dr_Benito_fotografia_traje_de_faena.png)
+![Dr. Benito, traje de faena](/assets/img/dr_Benito_fotografia_traje_de_faena.png)
 
 **Dr. Luis Miguel Benito de Benito**  
 
@@ -46,4 +46,4 @@ El doctor Luis Miguel Benito De Benito, bastante critico con las actuaciones de 
 - [podcast](https://go.ivoox.com/sq/1056537)  
 - [mastodon](https://mastodon.social/@elmedicotraslaverdad)  
 - [LinkedIn](https://www.linkedin.com/in/luis-benito-54a1a8222)  
-- [mail](mailto:elmedicotraslaverdad@gmail.com)  
+- [correo electrónico](mailto:elmedicotraslaverdad@gmail.com)  
