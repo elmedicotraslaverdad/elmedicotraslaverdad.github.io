@@ -28,7 +28,7 @@ Facultativo Especialista de Área de Aparato Digestivo en los Hospitales Verge d
 Facultativo Especialista de Área de Aparato Digestivo en el Hospital de Nuestra Señora del Prado en Talavera de la Reina (Toledo) de 2007 a 2009.  
 
 Premio de ensayo en Humanidades de la Real Academia de Ciencias Médicas de Baleares 2006 con el libro [“El médico tras la verdad. O lo que más se parece a ella”](https://www.operaprima.es/libros/ensayo/ensayo-ensayo/el-medico-tras-la-verdad/)  
-Ha escrito también [Coronavirus, tras la vacuna](https://www.operaprima.es/libros/ensayo/ciencia/coronavirus-tras-la-vacuna-luis-miguel-benito-de-benito/), [¡Vaya mierda!](https://www.operaprima.es/libros/ensayo/ensayo-ensayo/vaya-mierda-dr-luis-miguel-benito-de-benito/) y [Manual sobre el gluten y la celiaquía](https://www.elcorteingles.es/libros/A32773649-manual-sobre-el-gluten-y-la-celiaquia-tapa-blanda-9788491874454/).  
+Ha escrito también [“Coronavirus, tras la vacuna”](https://www.operaprima.es/libros/ensayo/ciencia/coronavirus-tras-la-vacuna-luis-miguel-benito-de-benito/), [“¡Vaya mierda!”](https://www.operaprima.es/libros/ensayo/ensayo-ensayo/vaya-mierda-dr-luis-miguel-benito-de-benito/) y [“Manual sobre el gluten y la celiaquía”](https://www.elcorteingles.es/libros/A32773649-manual-sobre-el-gluten-y-la-celiaquia-tapa-blanda-9788491874454/).  
 
 Desde julio de 2019 está trabajando también como Médico Especialista de Área de Aparato Digestivo en el Hospital Universitario de El Escorial, en la sierra de Madrid.  
 
