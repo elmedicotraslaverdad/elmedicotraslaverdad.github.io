@@ -33,8 +33,7 @@ url: 'https://elmedicotraslaverdad.github.io'
 github:
   username: elmedicotraslaverdad
 
-#twitter:
-mastodon:
+twitter:
   username: @elmedicotraslaverdad            # change to your twitter username
 
 social:
