@@ -36,4 +36,4 @@ Vivir es arriesgado. Le deseo para 2021 una buena elección, sea la que sea, por
 <br>
 <br>
 <br>
-<small>[fuente - archive.org]()</small>  
+<small>[fuente - archive.org](https://web.archive.org/web/20210305192947/https://elmedicotraslaverdad.blogspot.com/2020/12/un-ano-para-elegir-analice-su-decision.html)</small>  

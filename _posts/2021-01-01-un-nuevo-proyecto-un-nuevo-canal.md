@@ -22,4 +22,4 @@ Los pacientes me han enseñado mucho de la medicina que sé. Pero sobre todo me 
 <br>
 <br>
 <br>
-<small>[fuente - archive.org]()</small>  
+<small>[fuente - archive.org](https://web.archive.org/web/20210305192947/https://elmedicotraslaverdad.blogspot.com/2021/01/un-nuevo-proyecto-un-nuevo-canal.html)</small>  
