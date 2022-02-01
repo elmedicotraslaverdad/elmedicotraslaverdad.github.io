@@ -23,9 +23,23 @@ title: EL médico tras la verdad
 tagline: 'La gente opina que la mitad de lo que se cuenta es mentira: lo difícil es saber qué mitad es mentira'
 
 description: >-                        # used by seo meta and the atom feed
-  A minimal, portfolio, sidebar,
-  bootstrap Jekyll theme with responsive web design
-  and focuses on text presentation.
+  La medicina es una disciplina en la que los contenidos científicos
+  se deben despachar con una buena dosis de sentido común,
+  y en la que nunca se debe perder de vista que el destinatario
+  de las prestaciones es un ser humano. En el ámbito de la ciencia
+  se han vivido no pocas transformaciones, algunas de ellas esenciales
+  en los últimos decenios, de manera que ahora más que nunca cuesta distinguir
+  el grano de la paja. Esta sensación de vivir a golpe de modas genera
+  inestabilidad o incertidumbre, sobre todo en la relación médico-paciente.
+  Al médico la sociedad le exige que se ajuste a la legalidad,
+  pero el paciente además le pide que le trate con humanidad.
+  En este cuaderno de bitácora se esboza un intento de lo difícil
+  a la vez que divertido que puede llegar a ser congeniar tantos intereses.
+  Lo que usted sea capaz de leer entre líneas, dependerá de su ingenio.
+  Que lo disfrute.
+#  A minimal, portfolio, sidebar,
+#  bootstrap Jekyll theme with responsive web design
+#  and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: 'https://elmedicotraslaverdad.github.io'
@@ -33,18 +47,23 @@ url: 'https://elmedicotraslaverdad.github.io'
 github:
   username: elmedicotraslaverdad
 
-twitter:
-  username: elmedicotraslaverdad            # change to your twitter username
+#twitter:
+mastodon:
+  username: @elmedicotraslaverdad            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
   name: Dr. Luis Benito de Benito
-  email: example@doamin.com             # change to your email address
+  email: elmedicotraslaverdad@gmail.com           # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://mastodon.social/@elmedicotraslaverdad      # change to your twitter homepage
     - https://github.com/elmedicotraslaverdad       # change to your github homepage
+    - https://t.me/DrDeBenito   # canal de Telegram
+    - https://odysee.com/@drBenito:7   # canal de video (Odysee)
+    - https://go.ivoox.com/sq/1056537   # podcast (Ivoox)
+    - https://www.linkedin.com/mwlite/in/luis-benito-54a1a8222   # linkedin
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
@@ -82,7 +101,7 @@ theme_mode:   # [light|dark]
 img_cdn:
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/img/logo/dr_Benito_photo.jpg
+avatar: #/assets/img/logo/dr_Benito_photo.jpg
 
 # boolean type, the global switch for ToC in posts.
 toc: true
