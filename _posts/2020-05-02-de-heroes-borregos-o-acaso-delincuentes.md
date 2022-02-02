@@ -16,7 +16,7 @@ No se ha hecho esperar. Tras el miedo que suscitaba la cifra de afectados y muer
 > “Dejaréis de ser héroes cuando la gente no tenga miedo.
 Dejaréis de ser héroes cuando a los políticos les interese.
 Ahora sois carne de cañón, por eso os llaman héroes”.  
-**Senderos de gloria. Stanley Kubrick (1957)**.  
+[**Senderos de gloria. Stanley Kubrick (1957)**]  
 
 La frase se atribuía al Coronel Dax que interpreta magistralmente Kirk Douglas... pero no es cierto que en la película se diga esa frase, es uno de los muchos bulos que han circulado por la red estos días. Aunque lo cierto es que bien podría aplicarse a la situación que vivimos ahora los médicos. Cerrado IFEMA, personal sanitario de refuerzo despedido. **Los héroes a la calle**. En los hospitales nos han advertido que de vacaciones en verano nada y en otoño... ya se verá. Peligran la vacaciones y además tampoco serán remuneradas por no haber presupuesto. De gratificación y paga extra nada y gracias si no nos bajan el sueldo. Este es el pago de los agradecimientos por el esfuerzo de estos días.  
 

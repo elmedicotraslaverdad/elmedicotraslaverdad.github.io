@@ -20,6 +20,4 @@ Los profesionales sanitarios hemos contemplado esta pesadilla con una mezcla de 
 Ya no atrae elucubrar con morbosas cifras (en este frío punto ¿qué más da mil muertos más o menos?) sino darnos cuenta de qué manera **el miedo se ha instaurado en nuestra sociedad** a raíz de este experimento para que mucha gente esté dispuesta a renunciar a su libertar y exija que igualmente otros renuncien en aras de un pretendida mayor seguridad. **Geolocalización**. Nos aterra la incertidumbre y la libertad individual es un peso tan grande que preferimos que sea papá Estado quien nos tutele y dirija de principio a fin. Aplaudiremos nuestras cadenas y el reo será quien se niegue a llevarlas. Se nos hace muy duro descubrir que vivir es arriesgado. Vivir con miedo es un mal vivir.  
 
 <br>
-<br>
-<br>
 <small>[fuente - archive.org](https://web.archive.org/web/20200825205506/http://elmedicotraslaverdad.blogspot.com/2020/04/desde-lo-alto-una-puerta-la-esperanza.html)</small>  
