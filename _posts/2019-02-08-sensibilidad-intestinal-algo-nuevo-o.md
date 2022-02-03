@@ -1,0 +1,27 @@
+---
+title: 'Sensibilidad intestinal, ¿algo nuevo o más de lo mismo?'
+author: 'doc'
+date: 2019-02-08 +0100
+categories: []
+tags: [colon irritable, depresión, microbiota, neurointestino, sensibilidad intestinal]
+render_with_liquid: false
+pin: false
+math: false
+mermaid: false
+toc: true
+comments: false
+---
+ En todas las disciplinas y, por supuesto también en la medicina, existen cosas muy claras, otras muy turbias y otras en tierra de penumbra. Acostumbramos a no debatir demasiado sobre lo evidente porque es perder el tiempo, aunque de vez en cuando merece un repaso por ver si se pueden hacer las cosas mejor. Tendemos a rehuir de lo que está turbio porque al no existir una doctrina clara de lo que puede ser, tampoco sabemos muy bien cómo actuar y es molesto caminar por terreno pantanoso. Pero a veces no queda más remedio, si no le puedes endosar arteramente el caso clínico a otro colega más avezado.  
+
+Y sobre lo que queda entreverado,... todo un mundo. Es esos cuadros clínicos en los que impera la incertidumbre, donde ninguna teoría fisiopatológica encaja para explicar el problema, los médicos y también los no médicos proponen diferentes teorías con tintes de mayor o menor verosimilitud. Para ese tipo de dolencias intestinales que no teníamos hallazgos ni morfológicos ni analíticos nos inventamos hace años lo que se llamaba el colon espástico y que luego tomó más cuerpo como intestino irritable. Sobre el intestino irritable hemos hablado en muchos congresos y ha dado lugar incluso al establecimiento de criterios diagnósticos, por supuesto siempre basados en sintomatología clínica del paciente: desde el se me hincha la tripa y tengo gases, hasta que tengo diarrea y a veces estreñimiento, o que me hacen ruido las tripas, o que mis heces están deshechas, en puré o en bolas. Eructos, dolores erráticos, pinchazos, ardores, retortijones, urgencia por hacer deposición, dolor anal en pinchazos, tenesmo,... A los pacientes se les empieza a sugerir si pueden ser alergias a alimentos, a proponer que hagan **diferentes dietas de exclusión**, que se quiten el pan y cereales, la leche, el huevo, los frutos secos,... o que coman alimentos de moda, fibra, vegetales exóticos, que refuercen sus dietas con ácidos grasos omega 3, con semillas, con infusiones variadas,... Proliferan las pruebas de intolerancia a alimentos de esas que en varias hojas te ofrecen una relación extensa de alimentos en rojo, amarillo y verde, con la curiosa observación de que a veces te prohíben algunos que nunca en tu vida has probado ni sabías que existían (y a los que la prueba te dice que eres altamente alérgico). Se suceden los intentos por eliminar lo que puede ser la causa del malestar abdominal, con dietas restrictivas como la FODMAPS y no se da con la causa ni tampoco alivian significativamente las molestias.  
+
+En este vacío de conocimiento se abren luces esperanzadoras que ofrecen nuevas perspectivas. Superando, aunque a veces aglutinando, diferentes concepciones más rupestres como la histaminosis o la candidiasis intestinal crónica, se comienza a fijar la vista en el papel de la microbiota intestinal. Se habla del síndrome de intestino agujereado o perforado, achacando las alteraciones del proceso digestivo a una pérdida de la capacidad selectiva del intestino para absorber los nutrientes. Se diría que "todo se cuela" de una manera desordenada en el torrente circulatorio y altera al sistema inmunológico.  
+
+Recientemente se ha vuelto a poner en titulares el papel de [dos cepas de bacterias](https://www.nature.com/articles/s41564-018-0337-x.epdf?referrer_access_token=b53zviWSvKxev5NGu3qmmdRgN0jAjWel9jnR3ZoTv0Pk-saWPJmzGA3H2wMSXmwWPa6SztcMo52Skb85mandWXyy_XhnixnkvYubO8cqeHvySIql9wZwpjasMJrPvMbb6MEZ05VZGCjIXz9pfe6U1fjxQczQwUCyflVjyQHy9IXopfn3Skixd28JSsA5UAAR05W_C_7BL9CflshLv-q2sHCFC9XMKG7DQw_tuRLFU1eJTIZjJwuQqyOUZNj1z5-A&tracking_referrer=elpais.com) *Dialister* y *Coprococcus* que parecen relacionadas con la depresión. Según parece están muy reducidas en los pacientes con depresión. Habrá que investigar si es causa o consecuencia. Parece que las bacterias que modifican la presencia de butirato en el intestino pueden afectar a su función, algo que ya se había puesto bajo sospecha en la patogenia de la enfermedad de Crohn. La relación de las bacterias con el estado mental ya ha sido puesto de manifiesto en numerosos estudios que vinculan el llamado neurointestino. Seguramente iremos conociendo progresivamente **cómo ese equilibrio intestinal de billones de bacterias intestinales está contribuyendo a nuestro estado de salud**. No sólo afectan al funcionamiento de las tripas sino también a la sensibilidad, de manera que tener un "desequilibrio" en las bacterias puede hacer que haya mayor sensibilidad en el intestino, que la percepción de los fenómenos fisiológicos sea considerada como patológica en el cerebro.  
+
+Nos espera una revolución importante en el terreno de la interacción de nuestro cuerpo con las bacterias que lo pueblan. Mientras se desarrollan y obtienen ideas claras al respecto, proliferarán las terapias o pseudoterapias que, partiendo de una pretendida visión holística, se propondrán como la panacea para todos nuestros males. Pero cuidado, somos más que intestino, somos más que bacterias, somos más complejos y en la mierda hay muchas respuestas a nuestras preguntas.  
+
+<br>
+<br>
+<br>
+<small>[fuente - archive.org](https://web.archive.org/web/20190521034105/http://elmedicotraslaverdad.blogspot.com/2019/02/sensibilidad-intestinal-algo-nuevo-o.html)</small>  
