@@ -24,4 +24,4 @@ Bueno, seguramente si se interrumpe será porque deja de haber suministro en las
 <br>
 <br>
 <br>
-<small>[fuente - archive.org](https://web.archive.org/web/20200108021709/http://elmedicotraslaverdad.blogspot.com/2019/10/ahora-vueltas-con-la-ranitidina.html)</small>  
+<small>[fuente - archive.org](https://web.archive.org/web/20191106042532/http://elmedicotraslaverdad.blogspot.com/2019/10/ahora-vueltas-con-la-ranitidina.html)</small>  
